@@ -1,1 +1,3 @@
-# spring-boot-config-example
+# Spring-Boot Config Example
+
+Simple example project used in some lectures.
